@@ -13,6 +13,8 @@ This project is a simple **Ohm Meter** built with an **ESP32** microcontroller. 
 ## 📷 Example
 
 When accessed from a mobile device or PC connected to the ESP32’s WiFi, you will see a clean interface showing the resistance and live updates every 3 seconds.
+![Imagen de WhatsApp 2025-03-23 a las 00 17 36_28de8a98](https://github.com/user-attachments/assets/f76e709e-e213-4289-b4aa-0fc0bf1c06ca)
+
 
 ## ⚙️ Hardware Requirements
 
